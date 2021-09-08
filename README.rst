@@ -29,3 +29,6 @@ For the latest release, including pre-trained models and checkpoints, `see the l
 For contribution guidelines, see `CONTRIBUTING.rst <CONTRIBUTING.rst>`_.
 
 For contact and support information, see `SUPPORT.rst <SUPPORT.rst>`_.
+
+----
+Файлы boot.sh и Dockerfile должны лежать на уровень выше, чем DeepSpeech/
